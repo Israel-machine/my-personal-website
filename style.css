@@ -1,3 +1,28 @@
 body {
-    background:blue;
+    background:white;
+    font-family: 'Roboto Slab', serif;
+}
+.head-img {
+    display: flex;
+    justify-content: center;
+    background-color: #170513;
+    border-bottom: 20px solid white;
+ 
+}
+
+.bigBox {
+    display: flex;
+    justify-content:center;
+    background-color: goldenrod;
+}
+
+.headshot {
+    margin-right: 20px;
+    border: 20px solid goldenrod
+    
+}
+.stayinAlive {
+    display: flex;
+    justify-content: center;
+    border-top: 20px solid white;
 }
